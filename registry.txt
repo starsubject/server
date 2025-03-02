@@ -1,0 +1,6 @@
+0.0/Reserved/Used when connecting to the network.
+0.1/Welcome/Welcome to the intranet.
+1.0/Notes/This is a note file on client 1.0.
+1.1/Fun/Here’s some ASCII art: (\_/)
+1.2/Links/http://example.com is a good site.
+1.3/To-Do/Remember to update the registry.
